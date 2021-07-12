@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "742910370962",
+    "project_id": "mystore-f7630",
+    "storage_bucket": "mystore-f7630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742910370962:android:6f1d390e126e1a5c7ff24b",
+        "android_client_info": {
+          "package_name": "com.amier.modernloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742910370962-l102m6u9o081haaohva37hsjre7b3tvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKtiFfAE3b4rOtCdy-KskvFh-jBajNv9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742910370962-l102m6u9o081haaohva37hsjre7b3tvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742910370962:android:778f5e635fb863727ff24b",
+        "android_client_info": {
+          "package_name": "com.amier.modernloginregisterr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742910370962-27i44pa94nsgrftfe4nsp6ssvveuhmit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amier.modernloginregisterr",
+            "certificate_hash": "1e0b2c09e7cb925f1806ea4aa96c716109831982"
+          }
+        },
+        {
+          "client_id": "742910370962-l102m6u9o081haaohva37hsjre7b3tvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKtiFfAE3b4rOtCdy-KskvFh-jBajNv9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742910370962-l102m6u9o081haaohva37hsjre7b3tvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
